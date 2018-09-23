@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Noir">#000000</color>
+    <color name="Marron">#582900</color>
+    <color name="Rouge">#FF0000</color>
+    <color name="Orange">#FFA500</color>
+    <color name="Jaune">#FFFF00</color>
+    <color name="Vert">#008000</color>
+    <color name="Bleu">#0000FF</color>
+    <color name="Violet">#660099</color>
+    <color name="Gris">#808080</color>
+    <color name="Blanc">#FFFFFF</color>
+</resources>
